@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=Scores
+comment1.target=void\ mathPlacements(int[])
+comment2.params=Scores
+comment2.target=void\ outputStatement(int[])
+numComments=3
